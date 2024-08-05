@@ -8,7 +8,8 @@
 ## 개발 서버
 
 로컬 환경에서 `index.html` 파일을 열려면 다음 경로를 사용하세요:
-- **경로**: `file:///C:/Users/bin14/project/Weather%20app/index.html`
+**웹 애플리케이션**: [배포된 애플리케이션 보기](https://your-deployed-app-link.com)  *(여기에 실제 배포된 애플리케이션 링크를 삽입하세요.)*
+
 - **파일 열기**: 파일 탐색기에서 해당 경로로 이동하여 `index.html` 파일을 더블 클릭하거나, 브라우저에서 파일을 열어 확인할 수 있습니다.
 
 
