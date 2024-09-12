@@ -28,7 +28,7 @@
 - HTML
 - CSS
 - JavaScript
-- Weather API
+- OpenWeatherMap API
 
 ## 향후 계획
 - 다양한 난이도 모드 추가
